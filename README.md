@@ -5,7 +5,7 @@
 |◯|PROJECT|MARK|
 |:--:|:--:|--|
 |4|[C++ Modules](../../../42-cpp-modules)		|	[…](https://projects.intra.42.fr/projects)|
-|3|[minishell](../../../42-minishell)			|	[…](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/2952948)|
+|3|[minishell](../../../42-minishell)			|	[100%](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/2952948)|
 |3|[Philosophers](../../../42-philosophers)		|	[100%](https://projects.intra.42.fr/projects/42cursus-philosophers/projects_users/2937232)|
 |2|[pipex](../../../42-pipex)					|	[110%](https://projects.intra.42.fr/projects/pipex/projects_users/2877840)|
 |2|[push_swap](../../../42-push-swap)			|	[95%](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2687702)|
