@@ -1,10 +1,11 @@
-<p align="center">42cursus</p>
+<p align="center">42 common core</p>
 
 <div align="center">
 
 |◯|PROJECT|MARK|
 |:--:|:--:|--|
 |4|[C++ Modules](../../../42-cpp-modules)		|	[…](https://projects.intra.42.fr/projects)|
+|4|[NetPractice](../../../42-net-practice)		|	[100%](https://projects.intra.42.fr/projects/netpractice/projects_users/3032896)|
 |3|[minishell](../../../42-minishell)			|	[100%](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/2952948)|
 |3|[Philosophers](../../../42-philosophers)		|	[100%](https://projects.intra.42.fr/projects/42cursus-philosophers/projects_users/2937232)|
 |2|[pipex](../../../42-pipex)					|	[110%](https://projects.intra.42.fr/projects/pipex/projects_users/2877840)|
