@@ -4,6 +4,8 @@
 
 |◯|Project|Mark|
 |:--:|:--:|--|
+|5|[Inception](../../../42-inception)			|	[100%](https://projects.intra.42.fr/projects/inception/projects_users/3093976)|
+|4|[miniRT](../../../42-minirt)					|	[100%](https://projects.intra.42.fr/projects/minirt/projects_users/3083691)|
 |4|[C++ Modules](../../../42-cpp-modules)		|	[…](https://projects.intra.42.fr/projects/)|
 |4|[NetPractice](../../../42-net-practice)		|	[100%](https://projects.intra.42.fr/projects/netpractice/projects_users/3032896)|
 |3|[minishell](../../../42-minishell)			|	[100%](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/2952948)|
