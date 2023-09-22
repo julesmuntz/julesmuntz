@@ -6,7 +6,7 @@
 |:--:|:--:|--|
 |5|[webserv](../../../42-webserv)				|	[…](https://projects.intra.42.fr/projects/webserv/projects_users/julmuntz)|
 |5|[Inception](../../../42-inception)			|	[100%](https://projects.intra.42.fr/projects/inception/projects_users/julmuntz)|
-|4|[cub3d](../../../42-cub3d)					|	[…](https://projects.intra.42.fr/projects/cub3d/projects_users/julmuntz)|
+|4|[cub3d](../../../42-cub3d)					|	[117%](https://projects.intra.42.fr/projects/cub3d/projects_users/julmuntz)|
 |4|[miniRT](../../../)							|	[100%](https://projects.intra.42.fr/projects/minirt/projects_users/julmuntz)|
 |4|[C++ Modules](../../../42-cpp-modules)		|	[99.6%](https://projects.intra.42.fr/projects/cpp-module-09/projects_users/julmuntz)|
 |4|[NetPractice](../../../42-net-practice)		|	[100%](https://projects.intra.42.fr/projects/netpractice/projects_users/julmuntz)|
