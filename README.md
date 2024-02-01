@@ -4,7 +4,7 @@
 
 |◯|Project|Grade|
 |:--:|:--:|--|
-|6|[ft_transcendence](../../../42-transcendence)		|	[…](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/julmuntz)|
+|6|[ft_transcendence](../../../42-transcendence)		|	[100%](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/julmuntz)|
 |5|[webserv](../../../42-webserv)						|	[93%](https://projects.intra.42.fr/projects/webserv/projects_users/julmuntz)|
 |5|[Inception](../../../42-inception)					|	[100%](https://projects.intra.42.fr/projects/inception/projects_users/julmuntz)|
 |4|[cub3d](../../../42-cub3d)							|	[117%](https://projects.intra.42.fr/projects/cub3d/projects_users/julmuntz)|
