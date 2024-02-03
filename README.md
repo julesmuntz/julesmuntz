@@ -1,4 +1,9 @@
-<p align="center">42 Common Core</p>
+<div align="center">
+
+# Projects from <img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" width="32">
+<img src="https://badge42.coday.fr/api/v2/cls5zk1ko927501p4wg9sa7r6/stats?cursusId=21&coalitionId=piscine" width="275">
+
+</div>
 
 <div align="center">
 
