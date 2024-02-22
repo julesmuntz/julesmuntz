@@ -8,7 +8,7 @@
 
 <div align="center">
 
-|Project|Grade|
+|Project|Mark|
 |:--:|:--:|
 |[Python for Data Science](../../../42-python-modules)		|	[93%](https://projects.intra.42.fr/projects/python-for-data-science/projects_users/julmuntz)|
 |[ft_transcendence](../../../42-transcendence)		|	[100%](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/julmuntz)|
