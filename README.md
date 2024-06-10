@@ -8,6 +8,7 @@
 
 |Project|Mark|
 |:--:|:--:|
+|[Piscine Data Science](../../../42-piscine-data-science)	        |	[…](https://projects.intra.42.fr/projects/piscine-data-science/projects_users/julmuntz)|
 |[ft_linear_regression](../../../42-linear-regression)		        |	[125%](https://projects.intra.42.fr/projects/42cursus-ft_linear_regression/projects_users/julmuntz)|
 |[matrix](../../../42-matrix)	                                    |	[…](https://projects.intra.42.fr/projects/matrix/projects_users/julmuntz)|
 |[Python for Data Science](../../../42-python-for-data-science)		|	[93%](https://projects.intra.42.fr/projects/python-for-data-science/projects_users/julmuntz)|
