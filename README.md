@@ -8,7 +8,12 @@
 
 |Project|Mark|
 |:--:|:--:|
-|[Piscine Data Science](../../../42-piscine-data-science)	        |	[…](https://projects.intra.42.fr/projects/piscine-data-science/projects_users/julmuntz)|
+|[ft_turing](../../../42-turing)	        |	[…](https://projects.intra.42.fr/projects/42cursus-ft_turing/projects_users/julmuntz)|
+|[darkly](../../../42-darkly)	        |	[…](https://projects.intra.42.fr/projects/42cursus-darkly/projects_users/julmuntz)|
+|[ft_linux](../../../42-linux)	        |	[…](https://projects.intra.42.fr/projects/42cursus-ft_linux/projects_users/julmuntz)|
+|[Bgp At Doors of Autonomous Systems is Simple](../../../42-badass)	        |	[…](https://projects.intra.42.fr/projects/bgp-at-doors-of-autonomous-systems-is-simple/projects_users/julmuntz)|
+|[h42n42](../../../42-h42n42)	        |	[…](https://projects.intra.42.fr/projects/42cursus-h42n42/projects_users/julmuntz)|
+|[dslr](../../../42-dslr)	        |	[…](https://projects.intra.42.fr/projects/42cursus-dslr/projects_users/julmuntz)|
 |[ft_linear_regression](../../../42-linear-regression)		        |	[125%](https://projects.intra.42.fr/projects/42cursus-ft_linear_regression/projects_users/julmuntz)|
 |[matrix](../../../42-matrix)	                                    |	[…](https://projects.intra.42.fr/projects/matrix/projects_users/julmuntz)|
 |[Python for Data Science](../../../42-python-for-data-science)		|	[93%](https://projects.intra.42.fr/projects/python-for-data-science/projects_users/julmuntz)|
