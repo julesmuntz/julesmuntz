@@ -8,17 +8,8 @@
 
 |Project|Mark|
 |:--:|:--:|
-|[red-tetris](../../../42-red-tetris)	                             |	[…](https://projects.intra.42.fr/projects/42cursus-red-tetris/projects_users/julmuntz)|
-|[hypertube](../../../42-hypertube)	                               |	[…](https://projects.intra.42.fr/projects/42cursus-hypertube/projects_users/julmuntz)|
-|[camagru](../../../42-camagru)	                                   |	[…](https://projects.intra.42.fr/projects/42cursus-camagru/projects_users/julmuntz)|
 |[Piscine Django](../../../42-piscine-django)	                     |	[…](https://projects.intra.42.fr/projects/piscine-django/projects_users/julmuntz)|
-|[ft_turing](../../../42-turing)	                                    |	[…](https://projects.intra.42.fr/projects/42cursus-ft_turing/projects_users/julmuntz)|
-|[h42n42](../../../42-h42n42)	                                        |	[…](https://projects.intra.42.fr/projects/42cursus-h42n42/projects_users/julmuntz)|
-|[Bgp At Doors of Autonomous Systems is Simple](../../../42-badass)|	[…](https://projects.intra.42.fr/projects/bgp-at-doors-of-autonomous-systems-is-simple/projects_users/julmuntz)|
-|[darkly](../../../42-darkly)	                                     |	[…](https://projects.intra.42.fr/projects/42cursus-darkly/projects_users/julmuntz)|
-|[gomoku](../../../42-gomoku)	                                     |	[…](https://projects.intra.42.fr/projects/42cursus-gomoku/projects_users/julmuntz)|
-|[Leaffliction](../../../42-leaffliction)	                         |	[…](https://projects.intra.42.fr/projects/leaffliction/projects_users/julmuntz)|
-|[multilayer-perceptron](../../../42-multilayer-perceptron)	       |	[…](https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron/projects_users/julmuntz)|
+|[h42n42](../../../42-h42n42)	                                     |	[…](https://projects.intra.42.fr/projects/42cursus-h42n42/projects_users/julmuntz)|
 |[dslr](../../../42-dslr)	                                         |	[…](https://projects.intra.42.fr/projects/42cursus-dslr/projects_users/julmuntz)|
 |[ft_linear_regression](../../../42-linear-regression)		         |	[125%](https://projects.intra.42.fr/projects/42cursus-ft_linear_regression/projects_users/julmuntz)|
 |[matrix](../../../42-matrix)	                                     |	[…](https://projects.intra.42.fr/projects/matrix/projects_users/julmuntz)|
