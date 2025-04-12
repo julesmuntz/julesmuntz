@@ -1,7 +1,7 @@
 #
 <div align="center">
 
-<a href="#"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" width="42" /></a>
+<a href="#"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" style="filter: invert(1);" width="42" /></a>
 </div>
 
 <div align="center">
