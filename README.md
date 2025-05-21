@@ -16,9 +16,9 @@
 |[Inception Of Things](../../../42-iot)	                           |	[125%](https://projects.intra.42.fr/projects/inception-of-things/projects_users/julmuntz)|
 |[Piscine Django](../../../42-piscine-django)	                     |	[…](https://projects.intra.42.fr/projects/piscine-django/projects_users/julmuntz)|
 |[h42n42](../../../42-h42n42)	                                     |	[124%](https://projects.intra.42.fr/projects/42cursus-h42n42/projects_users/julmuntz)|
-|[dslr](https://github.com/42nbled/dslr)	                         |	[…](https://projects.intra.42.fr/projects/42cursus-dslr/projects_users/julmuntz)|
+|[dslr](https://github.com/42nbled/dslr)	                         |	[125%](https://projects.intra.42.fr/projects/42cursus-dslr/projects_users/julmuntz)|
 |[ft_linear_regression](../../../42-linear-regression)		         |	[125%](https://projects.intra.42.fr/projects/42cursus-ft_linear_regression/projects_users/julmuntz)|
-|[matrix](../../../42-matrix)	                                     |	[…](https://projects.intra.42.fr/projects/matrix/projects_users/julmuntz)|
+|[matrix](../../../42-matrix)	                                     |	[112%](https://projects.intra.42.fr/projects/matrix/projects_users/julmuntz)|
 |[Python for Data Science](../../../42-python-for-data-science)		 |	[93%](https://projects.intra.42.fr/projects/python-for-data-science/projects_users/julmuntz)|
 |[ft_transcendence](../../../42-transcendence)		                 |	[100%](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/julmuntz)|
 |[webserv](../../../42-webserv)						                         |	[93%](https://projects.intra.42.fr/projects/webserv/projects_users/julmuntz)|
